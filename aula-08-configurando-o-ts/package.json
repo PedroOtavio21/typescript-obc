@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "name": "aula-08-configurando-o-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
